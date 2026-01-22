@@ -1,51 +1,58 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "baekjoon_1697",
-            "request": "launch",
-            "mainClass": "baekjoon_1697",
-            "projectName": "Coding Test_4f5989c"
-        },
-        {
-            "type": "java",
-            "name": "baekjoon_9663",
-            "request": "launch",
-            "mainClass": "baekjoon_9663",
-            "projectName": "Coding Test_4f5989c"
-        },
-        {
-            "type": "java",
-            "name": "baekjoon_11401",
-            "request": "launch",
-            "mainClass": "baekjoon_11401"
-        },
-        {
-            "type": "java",
-            "name": "baekjoon_1780",
-            "request": "launch",
-            "mainClass": "baekjoon_1780"
-        },
-        {
-            "type": "java",
-            "name": "baekjoon_1992",
-            "request": "launch",
-            "mainClass": "baekjoon_1992"
-        },
-        {
-            "type": "java",
-            "name": "baekjoon_2630",
-            "request": "launch",
-            "mainClass": "baekjoon_2630"
-        },
-        {
-            "type": "jdk",
-            "request": "launch",
-            "name": "Launch Java App"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "baekjoon_2565",
+      "request": "launch",
+      "mainClass": "baekjoon_2565",
+      "projectName": "Coding Test_4f5989c"
+    },
+    {
+      "type": "java",
+      "name": "baekjoon_1697",
+      "request": "launch",
+      "mainClass": "baekjoon_1697",
+      "projectName": "Coding Test_4f5989c"
+    },
+    {
+      "type": "java",
+      "name": "baekjoon_9663",
+      "request": "launch",
+      "mainClass": "baekjoon_9663",
+      "projectName": "Coding Test_4f5989c"
+    },
+    {
+      "type": "java",
+      "name": "baekjoon_11401",
+      "request": "launch",
+      "mainClass": "baekjoon_11401"
+    },
+    {
+      "type": "java",
+      "name": "baekjoon_1780",
+      "request": "launch",
+      "mainClass": "baekjoon_1780"
+    },
+    {
+      "type": "java",
+      "name": "baekjoon_1992",
+      "request": "launch",
+      "mainClass": "baekjoon_1992"
+    },
+    {
+      "type": "java",
+      "name": "baekjoon_2630",
+      "request": "launch",
+      "mainClass": "baekjoon_2630"
+    },
+    {
+      "type": "jdk",
+      "request": "launch",
+      "name": "Launch Java App"
+    }
+  ]
 }
